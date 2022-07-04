@@ -126,7 +126,7 @@ Barre de menu (+ logout)
 5h
 
 /
-X : Accueil - liste tous les produits
+X : Accueil - liste tous les produits + test
 5h
 
 /error
