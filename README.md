@@ -82,7 +82,7 @@ Retourne une commande
 
 GET
 /api/user/:id
-X : Retourne le profil d’un utilisateur
+X : Retourne le profil d’un utilisateur + TEST
 3h
 
 PATCH
