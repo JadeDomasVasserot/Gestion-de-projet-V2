@@ -50,12 +50,14 @@ X : Déconnexion + TEST
 
 GET
 /api/products
-Retourne liste des produits
+X : Retourne liste des produits + TEST
 8h
+
 GET
 /api/products/:id
-Retourne un produit
+X : Retourne un produit + TEST
 3h
+
 GET
 /api/cart
 Retourne le panier
@@ -99,17 +101,20 @@ Verbe HTTP
 Route HTTP
 Action
 Temps de réalisation
+
 POST
 /api/products
-Ajoute un produit
+X: Ajoute un produit + test
 5h
+
 PATCH
 /api/products
-Modifie un produit
+X : Modifie un produit + test
 5h
+
 DELETE
 /api/products
-Supprime un produit
+X : Supprime un produit + test
 3h
 
 
@@ -129,7 +134,7 @@ X : Barre de menu (+ logout) + test
 5h
 
 /
-Accueil - liste tous les produits
+X : Accueil - liste tous les produits + test
 5h
 
 /error
@@ -137,8 +142,9 @@ X : Page 404 + test
 1h
 
 /products/:id
-Affiche une fiche produit
+X : Affiche une fiche produit + test
 5h
+
 /cart
 Affiche le panier + gestion des articles
 12h
