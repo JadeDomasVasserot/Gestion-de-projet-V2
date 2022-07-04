@@ -81,7 +81,7 @@ Retourne la liste des commandes
 
 GET
 /api/orders/:id
-X : Retourne une commande
+X : Retourne une commande + TEST
 5h
 
 GET
