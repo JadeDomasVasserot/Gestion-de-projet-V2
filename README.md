@@ -121,7 +121,7 @@ Description
 Temps de réalisation
 
 /login
-X : Authentification
+X : Authentification + test
 8h
 
 /
