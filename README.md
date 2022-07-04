@@ -157,7 +157,7 @@ Page de gestion CRUD des users
 20h
 
 /crud/products
-X : Page de gestion CRUD des produit
+X : Page de gestion CRUD des produit + test
 20h
 
 
