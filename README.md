@@ -87,7 +87,7 @@ X : Retourne le profil d’un utilisateur + TEST
 
 PATCH
 /api/user/:id
-X : Modifie mon profil utilisateur
+X : Modifie mon profil utilisateur + test
 5h
 
 DELETE
