@@ -45,7 +45,7 @@ X : Connexion + test
 
 GET
 /api/logout
-X : Déconnexion
+X : Déconnexion + TEST
 1h
 
 GET
