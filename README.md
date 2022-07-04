@@ -158,8 +158,9 @@ X : Affiche mon profil utilisateur + test
 5h
 
 /crud/users
-Page de gestion CRUD des users
+X : Page de gestion CRUD des users
 20h
+
 /crud/products
 Page de gestion CRUD des users
 20h
