@@ -157,7 +157,7 @@ Affiche la liste des commandes
 3h
 
 /orders/:id
-X : Affiche le contenu d’une commande
+X : Affiche le contenu d’une commande + test
 3h
 
 /profile
