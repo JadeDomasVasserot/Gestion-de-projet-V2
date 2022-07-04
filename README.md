@@ -79,10 +79,12 @@ GET
 /api/orders/:id
 Retourne une commande
 5h
+
 GET
 /api/user/:id
-Retourne le profil d’un utilisateur
+X : Retourne le profil d’un utilisateur
 3h
+
 PATCH
 /api/user/:id
 Modifie mon profil utilisateur
