@@ -98,10 +98,12 @@ Verbe HTTP
 Route HTTP
 Action
 Temps de réalisation
+
 POST
 /api/products
-Ajoute un produit
+X: Ajoute un produit + test
 5h
+
 PATCH
 /api/products
 Modifie un produit
