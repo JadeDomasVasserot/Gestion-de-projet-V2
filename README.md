@@ -155,8 +155,9 @@ Affiche mon profil utilisateur
 /crud/users
 Page de gestion CRUD des users
 20h
+
 /crud/products
-Page de gestion CRUD des users
+X : Page de gestion CRUD des produit
 20h
 
 
