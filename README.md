@@ -70,7 +70,7 @@ X : Ajoute un produit au panier + test
 
 PATCH
 /api/cart
-Modifie un produit du panier
+X : Modifie un produit du panier
 5h
 
 POST
