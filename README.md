@@ -78,10 +78,12 @@ GET
 /api/orders
 Retourne la liste des commandes
 3h
+
 GET
 /api/orders/:id
-Retourne une commande
+X : Retourne une commande
 5h
+
 GET
 /api/user/:id
 Retourne le profil d’un utilisateur
