@@ -154,7 +154,7 @@ Affiche le contenu d’une commande
 3h
 
 /profile
-X : Affiche mon profil utilisateur
+X : Affiche mon profil utilisateur + test
 5h
 
 /crud/users
