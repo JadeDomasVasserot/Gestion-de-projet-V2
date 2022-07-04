@@ -25,7 +25,7 @@ Voici toutes les actions nécessaires à la réalisation de notre projet :
 
 X : backend - Initialisation de la BDD (8h).
 X : backend - Initialisation du code du projet (3h)
-frontend - Initialisation du code du projet (3h)
+X : frontend - Initialisation du code du projet (3h)
 backend - routes API à produire :
 Pour les clients
 Verbe HTTP
