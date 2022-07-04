@@ -72,10 +72,12 @@ PATCH
 /api/cart
 Modifie un produit du panier
 5h
+
 POST
-/api/cart/checkout
-Valide le panier
+/api/cart
+X : Valide le panier
 5h
+
 GET
 /api/orders
 Retourne la liste des commandes
