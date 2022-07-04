@@ -119,9 +119,11 @@ frontend - Pages de l’application :
 Route
 Description
 Temps de réalisation
+
 /login
-Authentification
+X : Authentification
 8h
+
 /
 Barre de menu (+ logout)
 5h
