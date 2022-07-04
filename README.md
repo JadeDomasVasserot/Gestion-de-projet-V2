@@ -101,7 +101,7 @@ Temps de réalisation
 
 POST
 /api/products
-X: Ajoute un produit
+X: Ajoute un produit + test
 5h
 
 PATCH
