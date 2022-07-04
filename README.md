@@ -52,8 +52,9 @@ X : Retourne liste des produits + TEST
 
 GET
 /api/products/:id
-Retourne un produit
+X : Retourne un produit
 3h
+
 GET
 /api/cart
 Retourne le panier
