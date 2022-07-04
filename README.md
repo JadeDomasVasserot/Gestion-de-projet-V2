@@ -35,7 +35,7 @@ Temps de réalisation
 
 POST
 /api/signin
-X : Inscription sur l’app
+X : Inscription sur l’app + test
 12h
 
 POST
