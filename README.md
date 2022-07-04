@@ -150,7 +150,7 @@ X : Affiche une fiche produit + test
 5h
 
 /cart
-X : Affiche le panier + gestion des articles
+X : Affiche le panier + gestion des articles + test
 12h
 
 /orders
