@@ -32,10 +32,12 @@ Verbe HTTP
 Route HTTP
 Action
 Temps de réalisation
+
 POST
 /api/signin
-Inscription sur l’app
+X : Inscription sur l’app
 12h
+
 POST
 /api/login
 Connexion
