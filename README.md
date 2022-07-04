@@ -111,7 +111,7 @@ X : Modifie un produit + test
 
 DELETE
 /api/products
-Supprime un produit
+X : Supprime un produit
 3h
 
 
