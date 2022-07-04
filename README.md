@@ -124,8 +124,9 @@ Authentification
 /
 Barre de menu (+ logout)
 5h
+
 /
-Accueil - liste tous les produits
+X : Accueil - liste tous les produits
 5h
 
 /error
