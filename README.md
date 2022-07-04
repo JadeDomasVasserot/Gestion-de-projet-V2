@@ -106,8 +106,9 @@ X: Ajoute un produit + test
 
 PATCH
 /api/products
-Modifie un produit
+X : Modifie un produit
 5h
+
 DELETE
 /api/products
 Supprime un produit
