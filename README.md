@@ -92,7 +92,7 @@ X : Modifie mon profil utilisateur + test
 
 DELETE
 /api/user/:id
-Supprime mon compte utilisateur
+X : Supprime mon compte utilisateur
 5h
 
 
