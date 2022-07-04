@@ -45,8 +45,9 @@ X : Connexion + test
 
 GET
 /api/logout
-Déconnexion
+X : Déconnexion
 1h
+
 GET
 /api/products
 Retourne liste des produits
