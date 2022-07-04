@@ -80,11 +80,12 @@ X : Valide le panier + TEST
 
 GET
 /api/orders
-Retourne la liste des commandes
+X : Retourne la liste des commandes + TEST
 3h
+
 GET
 /api/orders/:id
-Retourne une commande
+X : Retourne une commande + TEST
 5h
 
 GET
@@ -155,11 +156,13 @@ X : Affiche une fiche produit + test
 /cart
 Affiche le panier + gestion des articles
 12h
+
 /orders
-Affiche la liste des commandes
+x : Affiche la liste des commandes + test
 3h
+
 /orders/:id
-Affiche le contenu d’une commande
+X : Affiche le contenu d’une commande + test
 3h
 
 /profile
