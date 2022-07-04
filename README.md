@@ -62,10 +62,12 @@ GET
 /api/cart
 Retourne le panier
 3h
+
 PUT
 /api/cart
-Ajoute un produit au panier
+X : Ajoute un produit au panier
 5h
+
 PATCH
 /api/cart
 Modifie un produit du panier
