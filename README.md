@@ -77,7 +77,7 @@ Valide le panier
 
 GET
 /api/orders
-X : Retourne la liste des commandes
+X : Retourne la liste des commandes + TEST
 3h
 
 GET
