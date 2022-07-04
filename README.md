@@ -40,7 +40,7 @@ X : Inscription sur l’app + test
 
 POST
 /api/login
-X : Connexion
+X : Connexion + test
 8h
 
 GET
