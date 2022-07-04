@@ -137,7 +137,7 @@ X : Page 404 + test
 1h
 
 /products/:id
-X : Affiche une fiche produit
+X : Affiche une fiche produit + test
 5h
 
 /cart
