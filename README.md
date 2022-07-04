@@ -125,7 +125,7 @@ X : Authentification + test
 8h
 
 /
-X : Barre de menu (+ logout)
+X : Barre de menu (+ logout) + test
 5h
 
 /
