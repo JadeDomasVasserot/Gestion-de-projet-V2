@@ -52,7 +52,7 @@ X : Retourne liste des produits + TEST
 
 GET
 /api/products/:id
-X : Retourne un produit
+X : Retourne un produit + TEST
 3h
 
 GET
