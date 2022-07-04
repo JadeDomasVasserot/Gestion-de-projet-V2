@@ -152,9 +152,11 @@ Affiche la liste des commandes
 /orders/:id
 Affiche le contenu d’une commande
 3h
+
 /profile
-Affiche mon profil utilisateur
+X : Affiche mon profil utilisateur
 5h
+
 /crud/users
 Page de gestion CRUD des users
 20h
