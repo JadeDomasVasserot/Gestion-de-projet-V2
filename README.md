@@ -151,12 +151,15 @@ X : Affiche une fiche produit + test
 /cart
 Affiche le panier + gestion des articles
 12h
+
 /orders
 Affiche la liste des commandes
 3h
+
 /orders/:id
-Affiche le contenu d’une commande
+X : Affiche le contenu d’une commande
 3h
+
 /profile
 Affiche mon profil utilisateur
 5h
