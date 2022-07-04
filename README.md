@@ -65,7 +65,7 @@ Retourne le panier
 
 PUT
 /api/cart
-X : Ajoute un produit au panier
+X : Ajoute un produit au panier + test
 5h
 
 PATCH
