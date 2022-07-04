@@ -75,7 +75,7 @@ Modifie un produit du panier
 
 POST
 /api/cart
-X : Valide le panier
+X : Valide le panier + TEST
 5h
 
 GET
