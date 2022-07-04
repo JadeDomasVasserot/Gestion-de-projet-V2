@@ -136,8 +136,9 @@ X : Page 404 + test
 1h
 
 /products/:id
-Affiche une fiche produit
+X : Affiche une fiche produit
 5h
+
 /cart
 Affiche le panier + gestion des articles
 12h
