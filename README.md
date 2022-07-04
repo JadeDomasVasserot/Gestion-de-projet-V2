@@ -60,20 +60,24 @@ X : Retourne un produit + TEST
 
 GET
 /api/cart
-Retourne le panier
+X : Retourne le panier + TEST
 3h
+
 PUT
 /api/cart
-Ajoute un produit au panier
+X : Ajoute un produit au panier + test
 5h
+
 PATCH
 /api/cart
-Modifie un produit du panier
+X : Modifie un produit du panier + TEST
 5h
+
 POST
-/api/cart/checkout
-Valide le panier
+/api/cart
+X : Valide le panier + TEST
 5h
+
 GET
 /api/orders
 Retourne la liste des commandes
