@@ -153,7 +153,7 @@ Affiche le panier + gestion des articles
 12h
 
 /orders
-x : Affiche la liste des commandes
+x : Affiche la liste des commandes + test
 3h
 
 /orders/:id
