@@ -27,7 +27,7 @@ X : backend - Initialisation de la BDD (8h).
 X : backend - Initialisation du code du projet (3h)
 X : frontend - Initialisation du code du projet (3h)
 backend - routes API à produire :
-Pour les clients
+Pour les clientsgit
 Verbe HTTP
 Route HTTP
 Action
@@ -124,9 +124,11 @@ Barre de menu (+ logout)
 /
 Accueil - liste tous les produits
 5h
+
 /error
-Page 404
+X : Page 404
 1h
+
 /products/:id
 Affiche une fiche produit
 5h
