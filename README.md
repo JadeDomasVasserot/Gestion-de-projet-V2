@@ -150,8 +150,9 @@ X : Affiche une fiche produit + test
 5h
 
 /cart
-Affiche le panier + gestion des articles
+X : Affiche le panier + gestion des articles
 12h
+
 /orders
 Affiche la liste des commandes
 3h
