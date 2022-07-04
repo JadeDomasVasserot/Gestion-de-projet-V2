@@ -74,9 +74,10 @@ POST
 /api/cart/checkout
 Valide le panier
 5h
+
 GET
 /api/orders
-Retourne la liste des commandes
+X : Retourne la liste des commandes
 3h
 
 GET
