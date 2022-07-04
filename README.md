@@ -47,7 +47,7 @@ Déconnexion
 
 GET
 /api/products
-X : Retourne liste des produits
+X : Retourne liste des produits + TEST
 8h
 
 GET
