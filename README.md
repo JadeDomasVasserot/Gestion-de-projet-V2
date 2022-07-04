@@ -60,7 +60,7 @@ X : Retourne un produit + TEST
 
 GET
 /api/cart
-Retourne le panier
+X : Retourne le panier
 3h
 
 PUT
