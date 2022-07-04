@@ -125,8 +125,9 @@ X : Authentification + test
 8h
 
 /
-Barre de menu (+ logout)
+X : Barre de menu (+ logout)
 5h
+
 /
 Accueil - liste tous les produits
 5h
