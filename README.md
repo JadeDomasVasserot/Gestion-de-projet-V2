@@ -82,17 +82,20 @@ GET
 /api/orders/:id
 Retourne une commande
 5h
+
 GET
 /api/user/:id
-Retourne le profil d’un utilisateur
+X : Retourne le profil d’un utilisateur + TEST
 3h
+
 PATCH
 /api/user/:id
-Modifie mon profil utilisateur
+X : Modifie mon profil utilisateur + test
 5h
+
 DELETE
 /api/user/:id
-Supprime mon compte utilisateur
+X : Supprime mon compte utilisateur + TEST
 5h
 
 
@@ -154,12 +157,15 @@ Affiche la liste des commandes
 /orders/:id
 Affiche le contenu d’une commande
 3h
+
 /profile
-Affiche mon profil utilisateur
+X : Affiche mon profil utilisateur + test
 5h
+
 /crud/users
-Page de gestion CRUD des users
+X : Page de gestion CRUD des users + test
 20h
+
 /crud/products
 Page de gestion CRUD des users
 20h
