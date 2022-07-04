@@ -44,10 +44,12 @@ GET
 /api/logout
 Déconnexion
 1h
+
 GET
 /api/products
-Retourne liste des produits
+X : Retourne liste des produits
 8h
+
 GET
 /api/products/:id
 Retourne un produit
